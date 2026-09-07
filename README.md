@@ -1,6 +1,8 @@
-# 🌐 OmniRoute Config — AI Gateway Configuration
+# OmniRoute Config — AI Gateway Configuration
+
 Configuration files and templates for OmniRoute AI Gateway.
-## 📋 Connected Providers
+
+## Connected Providers
 - Kiro AI — Claude Sonnet 4.5, DeepSeek 3.2
 - AI Horde — 100+ models, image generation
 - DeepSeek — DeepSeek-V4, DeepSeek-R1
@@ -11,7 +13,9 @@ Configuration files and templates for OmniRoute AI Gateway.
 - OpenCode Free — GPT-4o, Claude, Gemini
 - Cloudflare AI — 50+ models
 - LongCat — LongCat-Flash-Lite
-## 🔧 Usage
+
+## Usage
 omniroute
-# Dashboard: http://localhost:20128
-## 📄 License: MIT
+Dashboard: http://localhost:20128
+
+License: MIT
